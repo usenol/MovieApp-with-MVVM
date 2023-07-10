@@ -1,0 +1,15 @@
+
+/* Class = "UILabel"; text = "Description"; ObjectID = "ANe-Rb-78B"; */
+"ANe-Rb-78B.text" = "Description";
+
+/* Class = "UILabel"; text = "TitleLabel"; ObjectID = "Xny-AN-evM"; */
+"Xny-AN-evM.text" = "TitleLabel";
+
+/* Class = "UINavigationItem"; title = "Trending Movies"; ObjectID = "b8E-PC-lEK"; */
+"b8E-PC-lEK.title" = "Popüler Filmler";
+
+/* Class = "UINavigationItem"; title = "Movie Detail"; ObjectID = "iQ3-Vr-fRq"; */
+"iQ3-Vr-fRq.title" = "Film Detayı";
+
+/* Class = "UIViewController"; title = "Movie Detail"; ObjectID = "yov-Qy-MwZ"; */
+"yov-Qy-MwZ.title" = "Film Detayı";
